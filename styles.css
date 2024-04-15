@@ -1,6 +1,18 @@
 /*  your css code here. If applicable */
-tbody{
+table{
 	border: 1px solid black;
 	background-color: yellow;
+	
+}
+tr {
+	border: 1px solid black;
+	
+}
+td {
+	border: 1px solid black;
+	
+}
+th{
+	border: 1px solid black;
 	
 }
